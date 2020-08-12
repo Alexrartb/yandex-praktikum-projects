@@ -7,3 +7,5 @@
 |computer_game_success_analysis|Выявление определяющих успешность игры закономерностей для разных стран и платформ| *pandas*, *matplotlib*, *numpy*,*scipy*|
 |phone_rate_recomendation|Анализ поведения клиентов сотового оператора на основе исторических данных и предложение современного тарифа|*pandas*,*sklearn*,*matplotlib*|
 |customer_outflows|Предсказание оттока клиентов телеком оператора (выпускной проект курса)|*pandas*,*sklearn*,*matplotlib*|*os*,*pandas*,*numpy*,*matplotlib*,*sklearn*|
+|negative_comments_classifier|Создание классификатора комментарией на негативные и позитивные для интернет-магазина, создающего функцию редактирования комментариев|*pandas*,*re*,*nltk*,*pymystem3*,*tqdm*,*sklearn*,*catboost*
+|
