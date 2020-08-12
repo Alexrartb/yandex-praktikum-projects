@@ -9,3 +9,5 @@
 |customer_outflows|Предсказание оттока клиентов телеком оператора (выпускной проект курса)|*pandas*,*sklearn*,*matplotlib*|*os* <br> *pandas* <br> *numpy* <br> *matplotlib* <br> *sklearn*|
 |negative_comments_classifier|Создание классификатора комментарией на негативные и позитивные для интернет-магазина, создающего функцию редактирования комментариев|*pandas* <br> *re* <br> *nltk* <br> *pymystem3* <br> *tqdm* <br> *sklearn* <br> *catboost*|
 |number_of_taxi_forecast|Предсказание спроса на такси на последующий час. Использование временных рядов.|*pandas* <br> *numpy* <br> *datetime* <br> *statsmodels* <br> *matplotlib* <br> *sklearn* <br> *catboost* <br> *xgboost* <br> *warnings*|
+|apartments_sale|Определение рыночной стоимости объектов недвижимости в Санкт-Петербурге|*pandas* <br> *numpy* <br> *matplotlib*|
+|gold_recovery|Предсказание коэффициента восстановления золота из золотосодержащей руды|*pandas* <br> *sklearn* <br> *numpy* <br> *matplotlib* <br> *warnings*  |
