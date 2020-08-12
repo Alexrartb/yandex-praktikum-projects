@@ -6,4 +6,4 @@
 |car_price_forecast|Прогнозирование стоимости автомобиля для сервиса по продаже машин| *pandas*, *numpy*, *sklearn*, *datetime*,*lightgbm*,*matplotlib*,*xgboost*,*catboost*,*warnings*|
 |computer_game_success_analysis|Выявление определяющих успешность игры закономерностей для разных стран и платформ| *pandas*, *matplotlib*, *numpy*,*scipy*|
 |phone_rate_recomendation|Анализ поведения клиентов сотового оператора на основе исторических данных и предложение современного тарифа|*pandas*,*sklearn*,*matplotlib*|
-|customer_outflows|Предсказание оттока клиентов телеком оператора|*pandas*,*sklearn*,*matplotlib*|*os*,*pandas*,*numpy*,*matplotlib*,*sklearn*|
+|customer_outflows|Предсказание оттока клиентов телеком оператора (выпускной проект курса)|*pandas*,*sklearn*,*matplotlib*|*os*,*pandas*,*numpy*,*matplotlib*,*sklearn*|
